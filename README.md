@@ -5,11 +5,13 @@
 ## Packages used
 
    A) **Frontend (React)**
+   
       1. [react-stripe-checkout](https://www.npmjs.com/package/react-stripe-checkout)
       2. dotenv (Inbuild in react)
       3. materialize css
       
    B) **Backend (Node)**
+   
       1. cors : CORS(Cross-Origin Resource Sharing) is a node.js package for providing a Connect/Express middleware that can be used to enable CORS options.
       2. [stripe](https://www.npmjs.com/package/stripe)
       3. [uuid](https://www.npmjs.com/package/uuid) : (Universally Unique Identifiers) used to avoid double transaction due to network error.
